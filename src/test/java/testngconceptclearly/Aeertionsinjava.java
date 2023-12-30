@@ -8,7 +8,8 @@ public class Aeertionsinjava {
 	SoftAssert asser=new SoftAssert();
 
 @Test
-		void demo() {
+	
+	void demo() {
 	 
 	asser.assertFalse(false);
 	asser.assertEquals("Hema", "Happy");
